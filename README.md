@@ -32,3 +32,5 @@ git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim
 ```shell
 nvim
 ```
+
+NOTE: current dependencies: python3, python3-pip, python3-venv, unzip, ripgrep
